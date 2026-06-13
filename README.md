@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaik Hassain Gouse</h1>
-<h3 align="center">Cloud Computing & Cybersecurity Enthusiast | Data Analytics Learner | B.Tech Graduate</h3>
+<h3 align="center">Cloud Computing | Data Analytics Learner | B.Tech Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Computing+Enthusiast;Cybersecurity+Learner;Data+Analytics+Explorer;GCP+%7C+AWS+%7C+Power+BI;Always+Learning+New+Technologies&font=Poppins&center=true&width=700&height=50&color=36BCF7&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Enthusiast;Data+Analytics+Explorer;GCP+%7C+AWS+%7C+Power+BI;Always+Learning+New+Technologies&font=Poppins&center=true&width=700&height=50&color=36BCF7&vCenter=true&pause=1000&size=25" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 🎓 Recent **B.Tech Graduate** from **Kallam Haranadhareddy Institute of Technology**
 
-☁️ Passionate about **Cloud Computing, Cybersecurity, and Data Analytics**
+☁️ Passionate about **Cloud Computing,, and Data Analytics**
 
 📊 Skilled in **Google Cloud Platform (GCP), AWS Fundamentals, Power BI, and Celonis Process Mining**
 
