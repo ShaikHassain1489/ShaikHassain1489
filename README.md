@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Enthusiast;Data+Analytics+Explorer;GCP+%7C+AWS+%7C+Power+BI;Always+Learning+New+Technologies&font=Poppins&center=true&width=700&height=50&color=36BCF7&vCenter=true&pause=1000&size=25" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaikhassain1489&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
